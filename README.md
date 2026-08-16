@@ -511,7 +511,7 @@ The Backend API source code is available on my personal GitHub repository.
 **GitHub Repository:**
 
 ```text
-[INSERT YOUR GITHUB REPOSITORY LINK HERE]
+https://github.com/Ochwo-Anthony/Structured-Backend-API-Development-with-Express
 ```
 
 ---
